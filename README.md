@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Travel Website.<br>I am a 3rd year B.tech student.<br>
+I am currently working on a Stocks Website.<br>I am a 3rd year B.tech student.<br>
 
 
 ## 🌐 Socials:
