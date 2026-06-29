@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on **[JamMatch](https://github.com/VinayakRastogi16)** — a real-time musician matching & collaboration platform
 - 🌱 I'm currently learning **WebRTC | Socket.IO | System Design**
 - 💬 Ask me about **Full-Stack Dev | React | Node.js | DSA in C++**
-- 📫 Reach me at **your.email@gmail.com**
+- 📫 Reach me at **vinayakr841@gmail.com**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
 
 <br>
@@ -47,16 +47,16 @@
 
 <h3 align="left">🔗 Connect With Me:</h3>
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/vinayakrasto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/Vinayak__18/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/_vinayak_rastogi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:vinayakr841@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
