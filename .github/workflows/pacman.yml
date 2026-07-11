@@ -1,0 +1,30 @@
+name: Generate Pac-Man Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pac-Man graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: VinayakRastogi16
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=cyan
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
