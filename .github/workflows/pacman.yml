@@ -9,25 +9,23 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    timeout-minutes: 5
 
-      - uses: Platane/snk@v3
+    steps:
+      - name: Generate Pac-Man graph
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=cyan
 
-      - name: Push to output branch
-        run: |
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add -A
-          git commit -m "Update Pac-Man graph"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
