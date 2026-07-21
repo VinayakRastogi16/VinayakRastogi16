@@ -66,7 +66,7 @@
 <br>
 
 ---
-<div style="display:none;"}>
+<div style="display:none;">
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 <div align="center">
