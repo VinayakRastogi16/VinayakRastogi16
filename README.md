@@ -26,13 +26,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center" style="display:inline;justify-content:center;gap:16px;flex-wrap:wrap;">
-  
-[![Vinayak's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&theme=tokyonight)](https://github.com/VinayakRastogi16)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=tokyonight)](https://github.com/VinayakRastogi16)
-
-</div>
+<p align="center">
+  <a href="https://github.com/VinayakRastogi16">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/VinayakRastogi16">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 
 <br>
 
