@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.github.io/?username=VinayakRastogi16&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/VinayakRastogi16))
+[![trophy](https://github-profile-trophy.github.io/?username=VinayakRastogi16&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/VinayakRastogi16)
 
 </div>
 
