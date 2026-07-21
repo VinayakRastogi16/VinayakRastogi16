@@ -26,7 +26,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center" style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+<div align="center" style="display:inline;justify-content:center;gap:16px;flex-wrap:wrap;">
   
 [![Vinayak's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&theme=tokyonight)](https://github.com/VinayakRastogi16)
 
