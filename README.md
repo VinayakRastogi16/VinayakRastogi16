@@ -65,7 +65,6 @@
 
 <br>
 
----
 <!-- <div style="display:none;">
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
@@ -75,10 +74,6 @@
 
 </div>
 </div> -->
-
-<br>
-
----
 
 <h3 align="left">🐍 Contribution Graph:</h3>
 
