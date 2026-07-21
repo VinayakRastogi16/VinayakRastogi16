@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakRastogi16&theme=github-dark-blue&hide_border=true)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakRastogi16&theme=github-dark-blue&hide_border=true)](https://github.com/VinayakRastogi16.git)
 
 </div>
 
