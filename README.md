@@ -30,7 +30,7 @@
   
 [![Vinayak's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&theme=tokyonight)](https://github.com/VinayakRastogi16)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=github_dark)](https://github.com/VinayakRastogi16)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=tokyonight)](https://github.com/VinayakRastogi16)
 
 </div>
 
