@@ -28,9 +28,9 @@
 
 <div align="center" style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
   
-[![Vinayak's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&show_icons=true&theme=github_light)](https://github.com/VinayakRastogi16)
+[![Vinayak's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinayakRastogi16&show_icons=true&theme=github_dark)](https://github.com/VinayakRastogi16)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=github_light)](https://github.com/VinayakRastogi16)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=github_dark)](https://github.com/VinayakRastogi16)
 
 </div>
 
