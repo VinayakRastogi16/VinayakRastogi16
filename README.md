@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I'm currently working on **[JamMatch]((https://github.com/VinayakRastogi16/JamMatch_Frontend))** — a real-time musician matching & collaboration platform
+- 🔭 I'm currently working on **[JamMatch](https://github.com/VinayakRastogi16/JamMatch_Frontend)** — a real-time musician matching & collaboration platform
 - 🌱 I'm currently learning **WebRTC | Socket.IO | System Design**
 - 💬 Ask me about **Full-Stack Dev | React | Node.js | DSA in C++**
 - 📫 Reach me at **vinayakr841@gmail.com**
