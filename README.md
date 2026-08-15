@@ -149,17 +149,11 @@ I focus on understanding **why an algorithm works**, not just memorizing solutio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VinayakRastogi16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakRastogi16&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakRastogi16&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
