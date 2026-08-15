@@ -65,7 +65,7 @@
 
 <br>
 
-<!-- <div style="display:none;">
+<div style="display:none;">
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 <div align="center">
@@ -73,7 +73,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=VinayakRastogi16&theme=onedark)](https://github.com/VinayakRastogi16)
 
 </div>
-</div> -->
+</div>
 
 <br>
 
