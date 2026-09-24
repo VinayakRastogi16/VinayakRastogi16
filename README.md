@@ -170,16 +170,6 @@ Open Source          ████░░░░░░░░░░  Getting started
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinayakRastogi16\&theme=tokyo-night\&hide_border=true)](https://github.com/VinayakRastogi16)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
